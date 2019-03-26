@@ -2,7 +2,7 @@ require 'twitter_ebooks'
 
 # Information about a particular Twitter user we know
 class UserInfo
-  attr_reader :username
+  attr_reader :ElizaBurmistre
 
   # @return [Integer] how many times we can pester this user unprompted
   attr_accessor :pesters_left
